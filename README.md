@@ -1,0 +1,1 @@
+# sankaku-favs-downloader
