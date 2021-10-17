@@ -1,4 +1,5 @@
 # sankaku-favs-downloader
+downloads your favorited posts from https://chan.sankakucomplex.com (even if you use beta.sankakucomplex.com or the app)
 ## setup
 1. use linux, install some php like 7.0
 2. open terminal, navigate to repo dir
